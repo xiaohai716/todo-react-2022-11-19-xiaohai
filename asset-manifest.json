@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/09-todo-react-group-xiaohai/static/css/main.b4621bfd.css",
+    "main.js": "/09-todo-react-group-xiaohai/static/js/main.2db7fc0f.js",
+    "index.html": "/09-todo-react-group-xiaohai/index.html",
+    "main.b4621bfd.css.map": "/09-todo-react-group-xiaohai/static/css/main.b4621bfd.css.map",
+    "main.2db7fc0f.js.map": "/09-todo-react-group-xiaohai/static/js/main.2db7fc0f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4621bfd.css",
+    "static/js/main.2db7fc0f.js"
+  ]
+}
